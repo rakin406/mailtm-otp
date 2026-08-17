@@ -27,7 +27,7 @@ if __name__ == "__main__":
 ## Prerequisites
 
 - **Python 3.10+**
-- **(Optional) `uv` package manager:** For convenience, you can use [Astral UV](https://astral.sh/docs/uv) to manage dependencies. Install via `pip install uv` and use `uv sync` as shown below. Alternatively, you may install dependencies with pip manually.
+- **(Optional) `uv` package manager:** For convenience, you can use [Astral UV](https://astral.sh/docs/uv) to manage dependencies. Install via `pip install uv`. Alternatively, you may install dependencies with pip manually.
 
 ## Installation
 
